@@ -10,6 +10,3 @@ b = (sy2 - sy1)**2
 c = (math.sqrt((a + b)))
 
 print("The answer is: " + "\n" "{:0.2f}".format(c))
-
-
-test
